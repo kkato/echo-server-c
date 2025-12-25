@@ -62,13 +62,13 @@ make
 カスタムメッセージを送信:
 
 ```bash
-./echoclient -m "こんにちは、世界！"
+./echoclient -m "hello, world!"
 ```
 
 カスタムサーバーとポートを指定:
 
 ```bash
-./echoclient -s localhost -p 8080 -m "テストメッセージ"
+./echoclient -s localhost -p 8080 -m "test"
 ```
 
 オプション:
